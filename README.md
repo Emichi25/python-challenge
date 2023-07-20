@@ -1,7 +1,7 @@
 # python-challenge
 Module 3 Python Challenge
 
-My PyBank was having issues when I seperated it into folders. Otherwise it was running fine.
+My PyBank was having issues when I seperated it into folders. Otherwise it was running fine. Edit: figured out two spaces I made in the csv document are what caused my errors.
 
 Please see commnets in the scripts and screenshots in the folders.
 
