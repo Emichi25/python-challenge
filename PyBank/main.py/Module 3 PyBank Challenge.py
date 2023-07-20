@@ -66,7 +66,7 @@ output = (
                 f"                            \n"
                 f"Total Revenue: ${total_revenue}\n"
                 f"                            \n"
-                f"Average Revenue Change: ${revenue_avg}\n"
+                f"Average Change: ${revenue_avg}\n"
                 f"                            \n"
                 f"Greatest Increase in Profits: {greatest_increase[0]} (${greatest_increase[1]})\n"
                 f"                            \n"
