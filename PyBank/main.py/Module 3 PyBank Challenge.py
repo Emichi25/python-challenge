@@ -64,7 +64,7 @@ output = (
                 f"                            \n"
                 f"Total Months: {total_months}\n"
                 f"                            \n"
-                f"Total Revenue: ${total_revenue}\n"
+                f"Total: ${total_revenue}\n"
                 f"                            \n"
                 f"Average Change: ${revenue_avg}\n"
                 f"                            \n"
